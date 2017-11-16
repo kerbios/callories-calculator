@@ -1,1 +1,1 @@
-# callories-calculator
+# calorie-calculator
